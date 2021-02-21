@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Performing analysis on kickstarted to create trends
+An Analysis of Kickstarter Campaigns
