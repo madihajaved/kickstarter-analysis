@@ -1,6 +1,9 @@
 # kickstarter-analysis
+
 ##**Overview of Project**
+
 ###Purpose
+
 The purpose of this exercise was to see if success or failure of kickstarter campaigns for theatres and plays were dependent on their launch dates and their funding goals. 
 
 ##**Analysis and Challenges**
