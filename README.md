@@ -15,6 +15,8 @@ https://github.com/madihajaved/kickstarter-analysis/blob/2f412a45f0ba92336fe5ae1
 ### Analysis of Outcomes Based on Goals
 This analysis was done using a simple summary table for plays showing the number of plays which were successful, which failed and which were canceled. This was categorized using different levels of campaigns goals. To make the summary table, we used COUNTIFS function which allows data to be selected and counted based on multiple conditions. 
 
+https://github.com/madihajaved/kickstarter-analysis/blob/b1a8a5a907149d05781baf1ff79dfabda354eba1/Resources/Outcomes_vs_Goals.png
+
 ### Challenges and Difficulties Encountered
 I did not face any difficulty in this analysis however there can be some challenges which arise given the size of data available.  For instance, understanding which data tool will be most efficient and the way to use the tool is usually the biggest challenge. The first analysis based on month using pivot table is easy if we know how to arrange the rows by month, otherwise it can be tricky and in the past I have generally used the countif statement for this which is a longer process. 
 The other challenge is to ensure the data is being counted correctly. For the second analysis, the last two goal categories given was “45,000 to 49,999” and “Greater than 50,000”. However, this misses the campaigns where goals were 50,000 and I modified the last category to include all data points. 
