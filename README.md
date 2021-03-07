@@ -10,7 +10,7 @@ The purpose of this exercise was to see if success or failure of kickstarter cam
 ### Analysis of Outcomes Based on Launch Date
 The analysis was done using pivot tables which are helpful to look at trends within a big data set and allows the data to be filtered easily as required. For launch dates, we looked at different theatre kickstarter campaigns and looked at the month the campaigned were launched over time and compared it to the number of plays which were successful, which failed and which were canceled. 
 
-Resources/Theater_Outcomes_vs_Launch.png
+https://github.com/madihajaved/kickstarter-analysis/blob/2f412a45f0ba92336fe5ae1b56b2e6a3ac323134/Resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 This analysis was done using a simple summary table for plays showing the number of plays which were successful, which failed and which were canceled. This was categorized using different levels of campaigns goals. To make the summary table, we used COUNTIFS function which allows data to be selected and counted based on multiple conditions. 
